@@ -3,7 +3,7 @@ import requests
 import json
 
 # 你的通义千问密钥
-DASHSCOPE_API_KEY = "sk-0fcdcc47ac714ff887a87686348fe319"
+DASHSCOPE_API_KEY = "sk-XXXXXXX"
 
 # 页面全局美化配置
 st.set_page_config(
